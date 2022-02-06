@@ -1,4 +1,3 @@
 # czrojas.github.io
-Personal Website Projct
-
-NO BLOAT
+Personal Website Project
+Work in progress
